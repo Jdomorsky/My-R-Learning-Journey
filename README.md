@@ -35,6 +35,25 @@ As my journey continues, I welcome others to peek into this evolving record of l
 ### Tools
 ---
 
+- R Studio
+- Visual Studio Code
+- R Programming
+  - randomForest
+  - sf
+  - ggplot2
+  - dplyr
+  - tidyr
+  - stringr
+  - lubridate
+  - ploty
+  - data.table
+  - caret
+  - stats
+  - MASS
+  - xgboost
+  - forecast
+  - readr
+
 
 ---
 ### Data Cleaning
