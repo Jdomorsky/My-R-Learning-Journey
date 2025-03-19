@@ -90,3 +90,6 @@ As my journey continues, I welcome others to peek into this evolving record of l
 ### References
 ---
 
+- [Visual Studio Code](https://code.visualstudio.com)
+- [R Programming](https://www.r-project.org/)
+- [R Studio](https://posit.co/downloads/)
